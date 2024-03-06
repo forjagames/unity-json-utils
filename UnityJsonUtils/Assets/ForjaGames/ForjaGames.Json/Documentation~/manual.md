@@ -7,12 +7,19 @@ Efficient and lightweight JSON handling tailored to meet diverse requirements. C
 ## Package contents
 
 ### Directories
-* `/JsonUtils/Assembly`: Source code of the project.
-* `/JsonUtils/Examples`: Example scene.
+
+* `/ForjaGames.Json/Documentation~`: Documentation.
+* `/ForjaGames.Json/Runtime`: Source code of the project.
+* `/ForjaGames.Json/Samples~`: Example scene.
 
 ## Installation instructions
 
 [Installation instructions](https://docs.unity3d.com/Manual/upm-ui-install.html)
+
+**Github URL**
+```
+https://github.com/forjagames/unity-json-utils.git?path=Assets/JsonUtils
+```
 
 ## Requirements
 
