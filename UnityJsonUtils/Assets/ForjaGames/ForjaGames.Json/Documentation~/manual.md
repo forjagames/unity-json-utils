@@ -18,7 +18,7 @@ Efficient and lightweight JSON handling tailored to meet diverse requirements. C
 
 **Github URL**
 ```
-https://github.com/forjagames/unity-json-utils.git?path=Assets/JsonUtils
+https://github.com/forjagames/unity-json-utils.git?path=UnityJsonUtils/Assets/ForjaGames/ForjaGames.Json
 ```
 
 ## Requirements
