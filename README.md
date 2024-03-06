@@ -6,4 +6,4 @@ Efficient and lightweight JSON handling tailored to meet diverse requirements. C
 
 ## Documentation
 
-Please read the [document](./UnityJsonUtils/Assets/ForjaGames/ForjaGames.Json/manual.md) inside `Documentation~` directory.
+Please read the [document](./UnityJsonUtils/Assets/ForjaGames/ForjaGames.Json/Documentation~/manual.md) inside `Documentation~` directory.

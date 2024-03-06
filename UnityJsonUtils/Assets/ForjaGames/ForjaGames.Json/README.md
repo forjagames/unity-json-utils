@@ -6,4 +6,4 @@ Efficient and lightweight JSON handling tailored to meet diverse requirements. C
 
 ## Documentation
 
-Please read the document inside `Documentation~` directory.
+Please read the [document](./Documentation~/manual.md) inside `Documentation~` directory.
