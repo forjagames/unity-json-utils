@@ -5,7 +5,7 @@
     "name": "Luciano Rasente",
     "url": "https://forjagames.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.1",
   "description": "JSON utility for Unity.",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lcnvdl/code-in-unity"
+    "url": "https://github.com/forjagames/unity-json-utils"
   },
   "license": "MIT",
   "dependencies": {},
